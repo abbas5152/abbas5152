@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java,Springboot,AWS**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://abbasghaniwala.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abbasportfolio51.netlify.app/)
 
 - 💬 Ask me about **Anything,Happy to help you**
 
 - 📫 How to reach me **abbasghaniwala92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OIMln1miyc3W4ewgp44iOu_IVh3-VQnd/view?usp=sharing](https://drive.google.com/file/d/1OIMln1miyc3W4ewgp44iOu_IVh3-VQnd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mk1BIM11DGaGO7EkWZu7yFZOvv5KCfLJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have good sense of humour**
 
