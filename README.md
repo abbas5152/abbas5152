@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java,Springboot,AWS**
 
-- 👨‍💻 All of my projects are available at [https://abbasghaniwala.netlify.app/](https://abbasghaniwala.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://abbasghaniwala.netlify.app/)
 
 - 💬 Ask me about **Anything,Happy to help you**
 
