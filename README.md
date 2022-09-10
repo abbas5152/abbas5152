@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abbasghaniwala92@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mk1BIM11DGaGO7EkWZu7yFZOvv5KCfLJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SDOLqDjqV84bhbFmvyG_T1yoT5ckZ-4A/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have good sense of humour**
 
