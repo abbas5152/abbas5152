@@ -30,10 +30,7 @@
 
 <h3 align="left">if you like what i do, maybe consider buying me a coffee</h3>
 <p><a href="https://www.buymeacoffee.com/abbasg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee " /></a></p><br><br>
-<hr>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas5152&show_icons=true&locale=en&layout=compact" alt="abbas5152" /></p>
-<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas5152&show_icons=true&locale=en" alt="abbas5152" /></p>
 
